@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [DEMO](https://your-live-site-url.com)
+- [Demo](https://your-live-site-url.com)
 
 ## My process
 
