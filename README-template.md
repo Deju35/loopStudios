@@ -41,5 +41,5 @@ Users should be able to:
 ## Author
 
 - Website - [Dejen Tesfaldot](https://www.your-site.com)
-- Linkedin - (linkedin.com/in/deju5832156)
+- Linkedin - (https://linkedin.com/in/deju5832156)
 
