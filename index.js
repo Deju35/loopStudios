@@ -11,5 +11,5 @@ menuBtn.addEventListener('click', () => {
 closeBtn.addEventListener('click', () => {
    mobileMenu.style.display = 'none'
    menuBtn.style.display = 'block'
-   closeBtn.style.display = 'none'
+   closeBtn.style.display = "none"
 })
